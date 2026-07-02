@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_vue3"]=self["webpackChunkweb_vue3"]||[]).push([[594],{8974:function(u,e,n){n.r(e),n.d(e,{default:function(){return l}});var r=n(6768);const t={class:"about"};function c(u,e){return(0,r.uX)(),(0,r.CE)("div",t,[...e[0]||(e[0]=[(0,r.Lk)("h1",null,"海洋生物知识库旨在建立一个集中式平台，为用户提供方便浏览、搜索和获取各类海洋生物知识的服务。通过该平台，用户可以随时随地获取感兴趣的海洋生物内容，并且允许用户创建、编辑和组织内容，使得大量海洋生物知识可以被集中记录、共享和更新。",-1)])])}var s=n(1241);const a={},f=(0,s.A)(a,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.3cfe20cb.js.map
